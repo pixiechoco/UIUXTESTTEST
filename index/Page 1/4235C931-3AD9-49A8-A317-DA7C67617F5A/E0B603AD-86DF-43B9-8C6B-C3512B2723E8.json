@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0B603AD-86DF-43B9-8C6B-C3512B2723E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "84C27039-FA97-4B6B-A8DF-55BB38B2874C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "584B2418-EF72-4DED-ACF2-9D1199A870C6",
+    "height": 55,
+    "width": 320,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "导航栏/标准导航",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "componentId_stringValue",
+      "value": "导航栏"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0.4266666666666667,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6F37A84F-0C86-4553-B487-9022297CEDD2",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.266666666666667,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "B223C898-F5BF-49A1-99DE-39587818B823",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2207857B-624B-47BF-AC8B-7E5C8F0D53F6",
+  "userInfo": {
+    "iSketch": {
+      "iSketchComponentId": "导航栏/标准导航",
+      "iSketchScale": "2"
+    }
+  },
+  "verticalSpacing": 0
+}
