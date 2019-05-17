@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9FC35A20-A74B-4DF1-82E5-03B38128C41C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60947681-9E2E-4BB0-A229-B0C689AF25DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "E4A10A27-6788-4000-9BE7-DBC5C7A81A8F",
+    "height": 37,
+    "width": 37,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5ED33EBD-D499-4A56-AE27-366F83305723"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "2B0C4E90-7200-48FF-A75B-5BD1CFABDA91"
+    }
+  ],
+  "name": "成功icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "196928E3-DC5B-43DF-A2B6-31575A392BCA",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.057975050347285,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "A2102EF5-5989-4751-961E-B4BC2F7B366D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D640DA8-4252-4480-8CC2-7C02440B2040",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47F22D05-4C46-4062-B37F-FF1C03066924",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "46E6168E-27A8-480B-BC7E-E272CFEF9158",
+    "height": 568,
+    "width": 315,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "6B9F6BAA-1D80-4B0C-8E39-B3B4D700E945"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E4937B7B-6830-402A-85D9-2301F5DBEDBB"
+    },
+    {
+      "class": "group",
+      "id": "68841E6B-A456-4B3B-9AE0-31761434C23B"
+    },
+    {
+      "class": "group",
+      "id": "6A7779EF-206C-4FFC-8675-9A82F0EEBE14"
+    }
+  ],
+  "name": "支付类结果页（含步骤）",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7C245573-6477-4D6F-9A2C-7A637C5DDC84",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.421888053467001,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "6038EF13-26C9-4153-A092-2DF83AC63178",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
+    "com.sketchplugins.wechat.selectionDom1": {
+      "selection1": "8C9D5B67-A704-45AE-B2C5-830C08B45736"
+    }
+  }
+}

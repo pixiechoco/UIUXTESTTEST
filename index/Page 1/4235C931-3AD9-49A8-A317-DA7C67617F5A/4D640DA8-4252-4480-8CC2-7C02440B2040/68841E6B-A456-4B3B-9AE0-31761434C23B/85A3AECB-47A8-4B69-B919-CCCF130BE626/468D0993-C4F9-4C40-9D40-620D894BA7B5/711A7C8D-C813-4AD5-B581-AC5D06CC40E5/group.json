@@ -1,0 +1,107 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "711A7C8D-C813-4AD5-B581-AC5D06CC40E5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EE1B3A79-4E08-4B4E-9E7F-E318CAA18D93",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B569D938-F856-4AFD-90DD-29A1D032515C",
+    "height": 159,
+    "width": 151,
+    "x": 13.42125742371494,
+    "y": 57.90170248509556
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C3510231-AC54-423D-B476-9D9A46014B8D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "506BE161-63BC-47BC-A6F9-5C11A3EBC015"
+    },
+    {
+      "class": "group",
+      "id": "6DE0B374-63D3-473F-BC33-79B40C2CAC25"
+    },
+    {
+      "class": "group",
+      "id": "0D0F2808-B437-4B8B-80C6-6B0F17AD96E7"
+    },
+    {
+      "class": "group",
+      "id": "B18FCEAA-1B93-4BEA-8AD3-0E0CC3FFED3F"
+    },
+    {
+      "class": "text",
+      "id": "44B0A200-ECE4-4B4A-AE2B-F98B24DC3359"
+    },
+    {
+      "class": "text",
+      "id": "9790E74F-3B66-4886-B782-C61FDD1C599C"
+    },
+    {
+      "class": "text",
+      "id": "AB23B0B4-39C5-47D8-9842-5F193D37B9FB"
+    },
+    {
+      "class": "text",
+      "id": "03C5D9F5-3EA7-48D8-ACB5-874F1E09E1C6"
+    },
+    {
+      "class": "group",
+      "id": "9FC35A20-A74B-4DF1-82E5-03B38128C41C"
+    },
+    {
+      "class": "rectangle",
+      "id": "8DA8129B-311D-4FF7-AD69-CE3257DB5DFB"
+    },
+    {
+      "class": "rectangle",
+      "id": "9519974C-C0EC-4972-A8B5-C679DD2E859C"
+    }
+  ],
+  "name": "进度条",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "A4E10B2E-2077-4809-B42F-ADB9852824F3",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 3.421888053467001,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "5FF2ABBC-7A32-4651-8F44-02C67D163DCC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
